@@ -33,3 +33,5 @@ for file in /u14javall/version/*;
 do
   $file
 done
+
+
